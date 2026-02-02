@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Old/intermediate files
+index.csv
+index_corrected.csv
+index_with_status.csv
+SESSION_SUMMARY.md
+report_format_check.md
+summarize_10_points_sharp.md

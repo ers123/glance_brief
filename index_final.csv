@@ -1,0 +1,104 @@
+#,Date,Report Name,Publisher,Tier,Category,Status,Corrected_URL,Format,Notes
+1,2025-11,State of AI 2025,McKinsey QuantumBlack,1,MBB,EXISTS,https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai,Article+PDF,30 pages PDF available
+2,2025-12,Agents Robots and Us,McKinsey MGI,1,MBB,EXISTS,https://www.mckinsey.com/mgi/overview,Article+PDF,Future of work report
+3,2025-11,AI in Banking: Rewiring the Enterprise,McKinsey,1,MBB,EXISTS,https://www.mckinsey.com/industries/financial-services/our-insights/extracting-value-from-ai-in-banking-rewiring-the-enterprise,Article+PDF,Banking AI transformation
+4,2025-12,GenAI in Healthcare,McKinsey,1,MBB,EXISTS,https://www.mckinsey.com/industries/healthcare/our-insights/generative-ai-in-healthcare-adoption-trends-and-whats-next,Article+PDF,Healthcare AI adoption
+5,2026-01,Tech Trends 2026,McKinsey,1,MBB,NOT_FOUND,N/A,N/A,2025 version only (July 2025) - OUTSIDE TIMEFRAME
+6,2025-11,QuantumBlack AI Perspectives,McKinsey,1,MBB,NOT_FOUND,N/A,N/A,Merged into State of AI
+7,2025-12,Economic Potential of GenAI,McKinsey MGI,1,MBB,EXISTS,https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier,Article+PDF,Original report
+8,2026-01,CES 2026 Agenda,McKinsey,1,MBB,EXISTS,https://www.mckinsey.com/featured-insights/themes/whats-on-the-ces-2026-agenda,Article,CES coverage
+9,2025-12,AI in Manufacturing,McKinsey,1,MBB,EXISTS,https://www.mckinsey.com/capabilities/operations/our-insights/from-pilots-to-performance-how-coos-can-scale-ai-in-manufacturing,Article+PDF,Manufacturing AI
+10,2026-01,AI-Powered Organization,McKinsey,1,MBB,NOT_FOUND,N/A,N/A,Superagency article is Jan 2025 - OUTSIDE TIMEFRAME
+11,2025-11,Leading in Age of AI Agents,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2025/machines-that-manage-themselves,Article,Saved as MD
+12,2025-11,How Agentic AI Transforming Enterprise,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2025/how-agentic-ai-is-transforming-enterprise-platforms,Article,Saved as MD
+13,2025-12,AI Agents in Healthcare,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2026/how-ai-agents-will-transform-health-care,Article,Dec 2025 publication
+14,2025-12,Retail Predictions 2026,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2026/united-states-retail-predictions,Article,Jan 2026 publication
+15,2025-12,Making AI Agents Safe,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2025/making-ai-agents-safe-for-world,Article,Saved as MD
+16,2025-12,AI Cybersecurity,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2025/ai-raising-stakes-in-cybersecurity,Article+PDF,Dec 2025 with slideshow
+17,2026-01,Climate AI,BCG,1,MBB,NOT_FOUND,N/A,N/A,No report within timeframe
+18,2026-01,Financial Services AI,BCG,1,MBB,EXISTS,https://www.bcg.com/publications/2025/convergence-human-ai-finance-era,Article,Finance AI convergence
+19,2025-11,Technology Report 2025,Bain,1,MBB,EXISTS,https://www.bain.com/insights/topics/technology-report/,Landing+PDF,Main tech report hub
+20,2025-11,State of Agentic AI,Bain,1,MBB,EXISTS,https://www.bain.com/insights/state-of-the-art-of-agentic-ai-transformation-technology-report-2025/,Article+PDF,Agentic AI deep dive
+21,2025-12,Retail Sales Outlook 2026,Bain,1,MBB,EXISTS,https://www.bain.com/insights/2026-global-retail-sales-outlook-snap-chart/,Article,Snap chart format
+22,2025-12,M&A Report 2026,Bain,1,MBB,EXISTS,https://www.bain.com/insights/topics/m-and-a-report/,Landing+PDF,Jan 27 2026 publication
+23,2026-01,Private Equity 2026,Bain,1,MBB,EXISTS,https://www.bain.com/insights/global-private-equity-report-2026/,Article+PDF,PE report
+24,2025-11,Tech Trends 2026,Deloitte,1,Big4,EXISTS,https://www.deloitte.com/us/en/insights/focus/tech-trends.html,Interactive+PDF,PDF download available
+25,2025-12,State of AI Enterprise 6th,Deloitte,1,Big4,EXISTS,https://www.deloitte.com/us/en/insights/topics/ai/state-of-ai-enterprise.html,Article+PDF,Enterprise AI survey
+26,2025-12,2026 Global TMT Predictions,Deloitte,1,Big4,EXISTS,https://www.deloitte.com/us/en/insights/industry/tmt-predictions.html,Interactive+PDF,TMT predictions
+27,2026-01,AI Governance,Deloitte,1,Big4,EXISTS,https://www.deloitte.com/de/de/issues/innovation-ai/ai-governance.html,Article,AI governance insights
+28,2025-11,CEO Outlook 2025,EY,1,Big4,EXISTS,https://www.ey.com/en_gl/ceo-outlook,Article+PDF,CEO survey
+29,2025-12,Work Reimagined 2025,EY,1,Big4,EXISTS,https://www.ey.com/en_gl/work-reimagined,Article+PDF,Future of work
+30,2026-01,AI in Financial Services,EY,1,Big4,EXISTS,https://www.ey.com/en_gl/insights/innovation/why-ai-will-redefine-the-financial-services-industry-in-two-years,Article,FS AI transformation
+31,2025-11,AI Pulse Survey Q1 2025,KPMG,1,Big4,EXISTS,https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/kpmg-q1-2025-ai-pulse-survey.pdf,PDF,Direct PDF link
+32,2025-12,Global Tech Report 2026,KPMG,1,Big4,EXISTS,https://kpmg.com/xx/en/our-insights/ai-and-technology/global-tech-report.html,Article+PDF,Jan 2026 report
+33,2026-01,Trusted AI Governance,KPMG,1,Big4,EXISTS,https://kpmg.com/us/en/capabilities-services/ai/trusted-ai.html,Article+PDF,AI governance framework
+34,2025-11,Global AI Study 2025,PwC,1,Big4,EXISTS,https://www.pwc.com/gx/en/issues/artificial-intelligence/global-ai-study.html,Article+PDF,Global AI survey
+35,2025-12,28th CEO Survey,PwC,1,Big4,EXISTS,https://www.pwc.com/gx/en/ceo-survey.html,Interactive+PDF,Annual CEO survey
+36,2026-01,AI Jobs Barometer,PwC,1,Big4,EXISTS,https://www.pwc.com/gx/en/issues/artificial-intelligence/ai-jobs-barometer.html,Article+PDF,Jobs impact analysis
+37,2025-11,Technology Vision 2026,Accenture,2,IT Consulting,NOT_FOUND,N/A,N/A,2025 only - 2026 not yet released
+38,2025-12,Faculty AI Acquisition,Accenture,2,IT Consulting,EXISTS,https://newsroom.accenture.com/news/2026/accenture-to-acquire-faculty,Press Release,Jan 2026 announcement
+39,2026-01,Gen AI Value Realization,Accenture,2,IT Consulting,NOT_FOUND,N/A,N/A,No specific report found
+40,2025-11,AI Perspectives 2026,Capgemini,2,IT Consulting,EXISTS,https://www.capgemini.com/insights/research-library/AI-perspectives-2026,Article+PDF,Jan 15 2026 publication
+41,2025-12,AI-Powered Enterprise,Capgemini,2,IT Consulting,EXISTS,https://www.capgemini.com/insights/research-library/the-ai-powered-enterprise/,Article+PDF,Resonance Framework
+42,2025-11,Enterprise 2030,IBM,2,IT Consulting,NOT_FOUND,N/A,N/A,No specific report found
+43,2025-12,Business Trends 2026,IBM,2,IT Consulting,EXISTS,https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026,Article+PDF,Dec 1 2025 publication
+44,2026-01,AI Ethics Governance,IBM,2,IT Consulting,EXISTS,https://www.ibm.com/think/insights/a-look-into-ibms-ai-ethics-governance-framework,Article,Nov 18 2025 publication
+45,2025-11,Future-Ready Manufacturing,TCS,2,IT Consulting,EXISTS,https://www.tcs.com/what-we-do/industries/manufacturing/future-ready-manufacturing-study-2025,Article+PDF,Dec 3 2025 publication
+46,2025-12,AI and IP Report,TCS,2,IT Consulting,EXISTS,TCS-CII AI & IP Report,PDF,India-focused
+47,2025-11,AI-First GCC Model,Infosys,2,IT Consulting,PARTIAL,https://www.infosys.com/newsroom/press-releases/2025/unveils-ai-first-gcc-model.html,Press Release,Nov 17 2025 - PR only
+48,2025-12,GenAI Adoption Study,Infosys,2,IT Consulting,NOT_FOUND,N/A,N/A,GenAI Radar is 2024 - OUTSIDE TIMEFRAME
+49,2025-11,New Work New World 2026,Cognizant,2,IT Consulting,EXISTS,https://www.cognizant.com/us/en/aem-i/ai-and-the-future-of-work-report,Article+PDF,Jan 15 2026 publication
+50,2025-12,AI in Financial Services,Cognizant,2,IT Consulting,NOT_FOUND,N/A,N/A,Insights articles only
+51,2025-11,Gemini 3.0,Google DeepMind,1,Big Tech,EXISTS,https://deepmind.google/models/gemini/,Landing,Nov 2025 launch
+52,2025-12,AI Agent Trends 2026,Google Cloud,1,Big Tech,EXISTS,https://cloud.google.com/resources/content/ai-agent-trends-2026,Article+PDF,2026 trends report
+53,2026-01,AI Research Highlights 2025,Google DeepMind,1,Big Tech,EXISTS,https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/,Article,Year in review
+54,2026-01,AI Overview Enterprise 2026,Google Cloud,1,Big Tech,NOT_FOUND,N/A,N/A,No specific report found
+55,2025-11,New Future of Work 2025,Microsoft Research,1,Big Tech,EXISTS,https://www.microsoft.com/en-us/research/wp-content/uploads/2025/12/New-Future-Of-Work-Report-2025.pdf,PDF,Dec 2025 publication
+56,2025-12,Copilot Updates Nov-Dec 2025,Microsoft,1,Big Tech,EXISTS,https://techcommunity.microsoft.com/blog/microsoft365copilotblog/,Article,Product updates
+57,2026-01,Azure AI Trends 2026,Microsoft Azure,1,Big Tech,NOT_FOUND,N/A,N/A,No specific report found
+58,2025-11,re:Invent 2025 AI,Amazon AWS,1,Big Tech,EXISTS,https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/,Article,Dec 2025 announcements
+59,2025-12,Enterprise AI Adoption,AWS,1,Big Tech,NOT_FOUND,N/A,N/A,Blog posts only
+60,2026-01,Generative AI Use Cases,AWS,1,Big Tech,EXISTS,https://aws.amazon.com/generative-ai/use-cases/,Landing,Guide page
+61,2025-11,Llama 4,Meta AI,1,Big Tech,OUTSIDE_TIMEFRAME,N/A,N/A,Feb 2025 - OUTSIDE TIMEFRAME
+62,2025-12,AI for Social Good 2025,Meta AI,1,Big Tech,NOT_FOUND,N/A,N/A,No specific report found
+63,2025-11,Blackwell Architecture,NVIDIA,1,Big Tech,EXISTS,https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/,Landing,Product page
+64,2025-12,AI Infrastructure 2025,NVIDIA,1,Big Tech,EXISTS,https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025/,Article,Dec 2025 blog
+65,2026-01,Nemotron 3,NVIDIA,1,Big Tech,EXISTS,https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/,Landing,Dec 15 2025 launch
+66,2025-11,Claude Opus 4.5,Anthropic,1,Big Tech,EXISTS,https://www.anthropic.com/claude,Landing,Nov 2025 release
+67,2025-12,AI Safety Research,Anthropic,1,Big Tech,EXISTS,https://alignment.anthropic.com/2025/sabotage-risk-report/,Article+PDF,Pilot Sabotage Risk Report
+68,2026-01,Economic Index Jan 2026,Anthropic,1,Big Tech,EXISTS,https://www.anthropic.com/research/anthropic-economic-index-january-2026-report,Article+PDF,Jan 2026 report
+69,2025-11,GPT-5 Introduction,OpenAI,1,Big Tech,EXISTS,https://openai.com/index/introducing-gpt-5/,Article,Model announcement
+70,2025-12,State of Enterprise AI 2025,OpenAI,1,Big Tech,EXISTS,https://openai.com/index/the-state-of-enterprise-ai-2025-report/,Article+PDF,Enterprise report
+71,2026-01,AI and Society 2025,OpenAI,1,Big Tech,NOT_FOUND,N/A,N/A,No specific report found
+72,2025-12,Apple Intelligence,Apple,1,Big Tech,OUTSIDE_TIMEFRAME,N/A,N/A,June 2025 - OUTSIDE TIMEFRAME
+73,2026-01,Privacy-First AI,Apple,1,Big Tech,EXISTS,https://machinelearning.apple.com/research/neurips-2025,Article,NeurIPS 2025 papers (Dec)
+74,2025-12,2026 Outlooks,Goldman Sachs,1,IB,EXISTS,https://www.goldmansachs.com/insights/outlooks/2026-outlooks,Landing+PDF,AI outlook included
+75,2025-11,GenAI Revenue Report,Morgan Stanley,1,IB,EXISTS,https://www.morganstanley.com/insights/articles/genai-revenue-growth-and-profitability,Article,TMT Conference 2025
+76,2025-12,2026 Market Outlook,JPMorgan,1,IB,EXISTS,https://www.jpmorgan.com/insights/global-research/outlook/market-outlook,Article+PDF,AI infrastructure analysis
+77,2026-01,Year in Review 2025,Bank of America,1,IB,EXISTS,https://institute.bankofamerica.com/content/dam/economic-insights/2025-year-in-review.pdf,PDF,Dec 22 2025 publication
+78,2025-12,AI Apex Technology,Citi,1,IB,EXISTS,https://www.citigroup.com/global/insights/ai-the-information-era-apex-technology,Article,AI capex analysis
+79,2025-10,State of AI 2025,Air Street Capital,1,VC,OUTSIDE_TIMEFRAME,https://www.stateof.ai/,Slides,Oct 2025 - OUTSIDE TIMEFRAME
+80,2025-04,AI Index 2025,Stanford HAI,1,Think Tank,OUTSIDE_TIMEFRAME,https://hai.stanford.edu/ai-index/2025-ai-index-report,Article+PDF,April 2025 - OUTSIDE TIMEFRAME
+81,2025-01,AI Predictions 2024 Review,Benedict Evans,2,VC,OUTSIDE_TIMEFRAME,N/A,N/A,Jan 2025 - OUTSIDE TIMEFRAME
+82,2024-05,AI Canon,a16z,1,VC,NOT_FOUND,https://a16z.com/ai-canon/,Landing,No 2025-2026 update
+83,2026-01,Big Ideas 2026,ARK Invest,1,VC,EXISTS,https://www.ark-invest.com/big-ideas-2026,Landing+PDF,Jan 21 2026 publication
+84,2025-11,AI Agents Predictions,Gartner,1,Analyst,EXISTS,https://www.gartner.com/en/newsroom/press-releases/2025-11-18,Press Release,Paywall for full report
+85,2025-12,Agentic AI Content,Sequoia,1,VC,RELATED,https://sequoiacap.com/article/langchain-from-agent-0-to-1-to-agentic-engineering/,Article,Various articles on agentic AI
+86,2025-12,AI Policy Articles,Brookings,1,Think Tank,RELATED,https://www.brookings.edu/projects/artificial-intelligence-and-emerging-technology-initiative/,Landing,Individual articles
+87,N/A,Governing AI,CFR,2,Think Tank,RELATED,https://www.cfr.org/,Landing,Individual articles exist
+88,2025-09,AI Policy Reports,RAND,2,Think Tank,RELATED,https://www.rand.org/topics/artificial-intelligence.html,Landing,Multiple reports available
+89,N/A,AI Workforce,Hamilton Project,2,Think Tank,UNCONFIRMED,N/A,N/A,Needs verification
+90,N/A,European AI,Bruegel,2,Think Tank,UNCONFIRMED,N/A,N/A,Needs verification
+91,N/A,China AI Report,Tsinghua CAIS,2,Think Tank,NOT_FOUND,N/A,N/A,Specific report not found
+92,2025-11,ERNIE 5.0,Baidu,1,Big Tech (China),EXISTS,https://www.prnewswire.com/news-releases/baidu-unveils-ernie-5-0,Press Release,Nov 2025 Baidu World
+93,N/A,AI Research,Alibaba DAMO,2,Big Tech (China),UNCONFIRMED,N/A,N/A,Needs verification
+94,N/A,AI Annual Review,Tencent AI Lab,2,Big Tech (China),UNCONFIRMED,N/A,N/A,Needs verification
+95,2025-09,AI Framework Act,METI Japan,2,Government,EXISTS,https://www.meti.go.jp/english/,Landing,AI Basic Plan Sep 2025
+96,2025-09,AI Action Plan,MSIT Korea,2,Government,EXISTS,https://www.msit.go.kr/eng/,Landing,AI Framework Act Jan 2026
+97,2025-12,NAIS 2.0 Updates,IMDA Singapore,2,Government,EXISTS,https://www.imda.gov.sg/,Landing,GenAI Playbook 2025
+98,2025-10,AI for Viksit Bharat,NITI Aayog India,2,Government,EXISTS,https://niti.gov.in/sites/default/files/2025-09/AI-for-Viksit-Bharat,PDF,Sep 2025 publication
+99,2025-01,Future of Jobs 2025,WEF,1,Think Tank,OUTSIDE_TIMEFRAME,https://www.weforum.org/publications/the-future-of-jobs-report-2025/,Article+PDF,Jan 8 2025 - OUTSIDE TIMEFRAME
+100,Ongoing,AI Policy Observatory,OECD,1,Think Tank,EXISTS,https://oecd.ai/en/,Platform,Continuously updated
+101,2026-01,AI for Good 2026,UN/ITU,1,Think Tank,EXISTS,https://aiforgood.itu.int/,Landing+PDF,Davos 2026 launch
+102,2026-01,10 Breakthrough Tech 2026,MIT Tech Review,1,Media,EXISTS,https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/,Article,Jan 12 2026 publication
+103,N/A,AI Readiness Index 2026,EIU,2,Analyst,NOT_FOUND,N/A,N/A,Oxford Insights has similar report
