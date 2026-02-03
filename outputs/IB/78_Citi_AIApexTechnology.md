@@ -2,7 +2,7 @@
 
 **1. AI revenues to grow 80% annually to $780B by 2030**: According to Citi's AI Industry Model, AI revenues will grow nearly 80% annually over five years to reach $780 billion in 2030 from $43 billion today. The growth rate defies normal business physics.
 
-**2. Banking profits could hit $2 trillion by 2028—up 9%**: Citi GPS projects AI could drive global banking industry profits to $2 trillion by 2028—a 9% increase over five years. Finance cashes in first.
+**2. Banking profits to $2 trillion by 2028—$170B AI boost**: Citi GPS projects AI adds $170 billion to global banking profits, reaching $2 trillion by 2028. Banks' AI-related tech spend hits $40 billion by 2026. Finance cashes in first.
 
 **3. 54% of banking jobs face high automation potential**: Citi found that 54% of jobs in banking have higher potential for automation, while another 12% could be augmented by AI. Two-thirds of banking roles will transform.
 

@@ -8,7 +8,7 @@
 
 **4. 2025 GenAI revenue: $153B (enterprise $59B, consumer $94B)**: Morgan Stanley projects $153 billion in GenAI revenue for 2025—$59 billion from enterprise software, $94 billion from consumer platforms. Consumer leads, enterprise catches up.
 
-**5. GenAI infrastructure spending nearly triples to $276B by 2028**: Spending on hardware, networking, and memory for GenAI nearly triples from $98 billion in 2024 to $276 billion in 2028. The picks-and-shovels play keeps paying.
+**5. $2.9 trillion AI CapEx required through 2028**: Morgan Stanley estimates $2.9 trillion in AI CapEx over four years for infrastructure—"I was honestly shocked when we put all the pieces together." Half from big tech free cash flow, half from third-party capital.
 
 **6. $400B enterprise productivity market by 2028**: Of the $1.1 trillion revenue opportunity, $400 billion comes from corporate productivity software. Automation of white-collar work is the core value driver.
 

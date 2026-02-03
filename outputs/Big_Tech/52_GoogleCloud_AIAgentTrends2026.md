@@ -12,7 +12,7 @@
 
 **6. Democratization of agent development accelerates**: Advances in tooling lower barriers—developers and non-technical teams design, deploy, and monitor agents without custom infrastructure. Adoption accelerates across finance, healthcare, manufacturing, and public services.
 
-**7. More than half of GenAI organizations have agents in production**: Over half of executives in organizations using generative AI already have agents in production. These agents support customer service, marketing, security, technical support, and product development.
+**7. 88% of early adopters see positive ROI already**: Nearly 9 in 10 early adopters report positive ROI from at least one agentic AI use case. More than half of executives in GenAI organizations already have agents in production—customer service, marketing, security, technical support.
 
 **8. Human roles evolve—they don't disappear**: Employees shift toward oversight, strategy, and creative tasks while agents handle routine execution and analysis. Human-agent collaboration is the model, not human replacement.
 
